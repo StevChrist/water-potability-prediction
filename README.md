@@ -34,7 +34,6 @@ Berikut adalah parameter yang digunakan sebagai input untuk model prediksi:
 
 - **Model Machine Learning:**
   - Support Vector Machine (SVM)
-  - XGBoost
 - **Optimasi Hyperparameter:** Optuna
 - **Framework Aplikasi Web:** Streamlit
 - **Bahasa Pemrograman:** Python
