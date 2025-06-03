@@ -34,9 +34,6 @@ Berikut adalah parameter yang digunakan sebagai input untuk model prediksi:
 
 - **Model Machine Learning:**
   - Support Vector Machine (SVM)
-  - Random Forest
-  - K-Nearest Neighbors (KNN)
-  - Logistic Regression
   - XGBoost
 - **Optimasi Hyperparameter:** Optuna
 - **Framework Aplikasi Web:** Streamlit
