@@ -14,8 +14,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 import plotly.graph_objects as go
-import time # Untuk demo progress bar jika perlu
-from streamlit_option_menu import option_menu # Import library baru
+import time
+from streamlit_option_menu import option_menu
 
 # --- Konfigurasi Aplikasi ---
 st.set_page_config(page_title="AquaCheck Pro - Analisis Kualitas Air",
