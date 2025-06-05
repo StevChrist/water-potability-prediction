@@ -395,8 +395,7 @@ def show_feature_details_section():
     st.subheader("🔬 Penjelasan Detail Fitur Input")
     st.markdown("""
     Berikut adalah penjelasan lebih mendalam mengenai 9 parameter kualitas air yang digunakan oleh model
-    untuk memprediksi kelayakan air minum. Memahami parameter ini akan membantu Anda
-    menginterpretasikan hasil prediksi dan pentingnya setiap pengukuran.
+    untuk memprediksi kelayakan air minum.
     """)
 
     # --- Data Detail Fitur ---
